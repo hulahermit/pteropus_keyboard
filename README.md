@@ -22,3 +22,11 @@ This microcontroller is a crystal-less USB 2.0 controller, and it is embeded wit
 
 and a pull-up resistor for USB_DP, so it reduced the part count and simplify the trace routing.
 
+Sourcing the keyboard
+---------------------
+This keyboard uses SMD components, except the type-c connector, so it came almost finished from the factory with PCB assembly service.
+
+I use JLCPCB, so the part number shall be changed if use otherwise.
+
+- BOM: pteropus BOM.csv
+- Component position: pteropus-bottom-pos.csv
